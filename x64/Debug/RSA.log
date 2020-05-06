@@ -1,0 +1,4 @@
+﻿  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\boost_1_58_0\boost\format\alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  RSA.vcxproj -> C:\Users\asus\Source\Repos\RSA\x64\Debug\RSA.exe
